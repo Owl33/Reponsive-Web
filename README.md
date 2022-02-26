@@ -1,7 +1,7 @@
-<h1 align="center"> Rotation Grid</h1><br>
+<h1 align="center"> Reponsive Web</h1><br>
 
->평소 게임을 좋아하기 때문에 주변 기기에도 자연스레 관심이 갔습니다.<br>
->무엇을 만들까 고민하다가 개인적으로 좋아하는 브랜드의 게이밍 기어를 소개하는 컨셉으로 제작하면 되겠다 하여 만들게 된 사이트 입니다.<br>
->CSS의 Grid를 기반으로 애니메이션을 중점으로 두고 제작했습니다.
+>HTML과 CSS를 배우고 처음 제작 했었던 홈페이지 입니다.<br>
+>HTML과 CSS로 제작되었으며 Modal만 JS로 제작 되었습니다.<br>
+>CSS MEDIA QUERY를 사용하여 반응형으로 제작하였습니다.<br>
 
 
